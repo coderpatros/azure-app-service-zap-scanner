@@ -1,0 +1,3 @@
+*.pyc
+zap-scanning-report.*
+*.junit.xml
